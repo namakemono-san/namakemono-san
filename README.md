@@ -5,4 +5,5 @@
 
 # 現在更新しているリポジトリ  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namakemono-san&repo=discord-fortnite)](https://github.com/namakemono-san/discord-fortnite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namakemono-san&repo=discord-fortnite)](https://github.com/namakemono-san/discord-fortnite)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namakemono-san&repo=discord-fortnite)](https://github.com/namakemono-san/discord-language-change)
