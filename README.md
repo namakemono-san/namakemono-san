@@ -1,5 +1,14 @@
-# GitHub Stats  
+# My Skills
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namakemono-san&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=namakemono-san&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namakemono-san)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,remix,nodejs,py,bots,fastapi,java,kotlin,cs,go,flutter,dart,docker,git"/>
+  </a>
+</div>
+
+# My Status
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namakemono-san&show_icons=true&theme=tokyonight&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namakemono-san&layout=compact&card_width=320&langs_count=6&theme=vue-dark&order=2" height="200" 200="languages graph"  />
+</div>
