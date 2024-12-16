@@ -5,6 +5,8 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=ts" height="40"/>
   <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=py" height="40"/>
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=java"  height="40"/>
@@ -27,17 +29,19 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=remix" height="40"/>
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-  <img width="6" />
   <img src="https://skillicons.dev/icons?i=bots" height="40"/>
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=fastapi"  height="40"/>
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=unity"  height="40"/>
   <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mysql"  height="40"/>
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=docker"  height="40"/>
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=git"  height="40"/>
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vscode"  height="40"/>
   <img width="6" />
 </div>
 
