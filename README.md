@@ -51,3 +51,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=namakemono-san&show_icons=true&theme=tokyonight&order=1" height="175" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namakemono-san&layout=compact&card_width=320&langs_count=6&theme=vue-dark&order=2" height="175" 200="languages graph"  />
 </div>
+
+# My Projects
+
+| Name             | Description                                                                            | Link                                                             | Status  |
+|------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------|---------|
+| Myon Bot         | This Discord Bot is being developed with the goal of being useful and multifunctional. | [Myon Bot Project](https://github.com/Myon-Bot-Project)          | Develop |
+| Fantaisie Server | Microcosm server with various elements is under development.                           | [fantaisie network](https://github.com/FantaisieMinecraftServer) | Develop |
+| Murasame Server  | Invitation-only private server for osu!                                                | [Murasame](https://github.com/murasameosu)                       | Develop |
