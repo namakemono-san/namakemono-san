@@ -23,6 +23,8 @@
   <img width="6" />
 </div>
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=vue" height="40"/>
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
