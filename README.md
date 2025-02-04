@@ -59,5 +59,5 @@
 | Name             | Description                                                                            | Link                                                             | Status  |
 |------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------|---------|
 | Myon Bot         | This Discord Bot is being developed with the goal of being useful and multifunctional. | [Myon Bot Project](https://github.com/Myon-Bot-Project)          | Develop |
-| Alcaris Server   | Minecraft server with various elements is under development.                           | [fantaisie network](https://github.com/AlcarisMinecraftServer/)  | Develop |
+| Alcaris Server   | Minecraft server with various elements is under development.                           | [alcaris network](https://github.com/AlcarisMinecraftServer/)  | Develop |
 | Murasame Server  | Invitation-only private server for osu!                                                | [Murasame](https://github.com/murasameosu)                       | Develop |
