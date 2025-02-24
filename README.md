@@ -1,6 +1,6 @@
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-**💻 Languages**
+### 💻 Languages
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40"/>
@@ -24,7 +24,7 @@
 
 ---
 
-**🖥️ Frameworks & Libraries**
+### 🖥️ Frameworks & Libraries
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
@@ -54,7 +54,7 @@
 
 ---
 
-**⚙️ Tools & Platforms**
+### ⚙️ Tools & Platforms
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40"/>
@@ -80,7 +80,7 @@
 
 ---
 
-**🎮 Game Development**
+### 🎮 Game Development
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=unity" height="40"/>
@@ -92,7 +92,7 @@
 
 ---
 
-**🖥️ IDEs & OS**
+### 🖥️ IDEs & OS
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
@@ -108,7 +108,7 @@
 
 ---
 
-## 📊 Metrics・Activity
+# 📊 Metrics・Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=namakemono-san&show_icons=true&theme=tokyonight" height="175" />
@@ -121,7 +121,7 @@
 
 ---
 
-## 📂 My Projects
+# 📂 My Projects
 
 | Name                 | Description                                                                            | Link                                                             | Status     |
 |----------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------|------------|
