@@ -128,3 +128,4 @@
 | **Myon Bot**         | This Discord Bot is being developed with the goal of being useful and multifunctional. | [Myon Bot Project](https://github.com/Myon-Bot-Project)          | Paused     |
 | **Alcaris Server**   | Minecraft server with various elements is under development.                           | [Alcaris Network](https://github.com/AlcarisMinecraftServer/)    | Develop    |
 | **Murasame Server**  | Invitation-only private server for osu!                                                | [Murasame](https://github.com/murasameosu)                       | Develop    |
+| **YMM-RPC**          | Plugin to display YukkuriMovieMaker4 on Discord Rich Presence                          | [YMM-RPC](https://github.com/namakemono-san/YMM-RPC)             | Develop    |
