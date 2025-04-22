@@ -20,6 +20,8 @@
   <img src="https://skillicons.dev/icons?i=dart" height="40"/>
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=lua" height="40"/>
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40"/>
 </div>
 
 ---
