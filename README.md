@@ -106,6 +106,8 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40"/>
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=windows" height="40"/>
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=apple" height="40"/>
 </div>
 
 ---
