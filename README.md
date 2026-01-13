@@ -134,7 +134,7 @@ I work on things like Modding, creating plugins, small desktop and mobile tools,
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namakemono-san&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=namakemono-san&theme=tokyonight" height="170"/>
 </div>
 
 ---
