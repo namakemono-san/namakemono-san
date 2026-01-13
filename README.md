@@ -129,8 +129,8 @@ I work on things like Modding, creating plugins, small desktop and mobile tools,
 # 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namakemono-san&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namakemono-san&layout=compact&card_width=320&langs_count=6&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-iota-six-24.vercel.app/api?username=namakemono-san&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-iota-six-24.vercel.app/api/top-langs?username=namakemono-san&layout=compact&card_width=320&langs_count=6&theme=tokyonight" height="170"/>
 </div>
 
 <div align="center">
