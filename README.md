@@ -144,8 +144,7 @@ I work on things like Modding, creating plugins, small desktop and mobile tools,
 | Name                     | Description                                                  | Link                                                     | Status     |
 |--------------------------|--------------------------------------------------------------|----------------------------------------------------------|------------|
 | **Myon Bot**             | Multi-purpose Discord bot focused on utility features.       | The organization has been deleted.                       | Paused     |
-| **Alcaris Server**       | Large-scale Minecraft network under active development.      | https://github.com/AlcarisMinecraftServer/               | Developing |
-| **Murasame**             | Private osu! server / tools for a closed community.          | https://github.com/murasameosu                           | Developing |
+| **Murasame**             | Private osu! server / tools for a closed community.          | https://github.com/murasameosu                           | Paused |
 | **YMM-RPC**              | Discord Rich Presence integration for YukkuriMovieMaker4.    | https://github.com/namakemono-san/YMM-RPC                | Paused     |
 | **osu! mapping utility** | A tool to make mapping in osu! a little more convenient.     | https://github.com/namakemono-san/osu-mapping-utility    | Developing |
 
